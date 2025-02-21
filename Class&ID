@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title></title>
+        <style>
+            .first
+            {
+                background-color: black;
+                color: white;
+                border: 2px solid red;
+                margin: 20px;
+                padding: 20px;
+            }
+        </style>
+</head>
+<body>
+    <div class="first">
+        <h2>This is my heading 1</h2>
+        <p>This is my paragraph 1</p>
+    </div>    
+    <div class="first">
+        <h2>This is my heading 2</h2>
+        <p>This is my paragraph 2</p>
+    </div>    
+    <div class="first">
+        <h2>This is my heading 3</h2>
+        <p>This is my paragraph 3</p>
+    </div>    
+</body>
+</html>
