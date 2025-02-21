@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="
+        width=device-width,initial-scale=1">
+        <title>Static Wesite</title>
+        <link rel="stylesheet" type="text/css" href="V.css">
+   </head> 
+   <body>
+    <div class="bgimage">
+        <div class="menu">
+            <div class="leftmenu">
+                <h4>Best Buddy</h4>
+                </div>
+                <div class="rightmenu">
+                    <ul>
+                            <li id="firstlist">Home</li>
+                            <li>Services</li>
+                            <li>Works</li>
+                            <li>About us</li>
+                            <li>Blogs</li>
+                            <li>Contact Us</li>
+                            </ul>
+                </div>
+        </div>
+        <div class="text">
+            <h1>Job Hiring</h1>
+            <h3>WE ARE HIRING SPORTS AND CASINO GAMING DEVELOPERS</h3>
+            <a href="#"><button id="buttonone">Button 1</button></a>
+            <a href="#"><button id="buttontwo">Button 2</button></a>
+            </div>
+    </div>
+</body>
+</html>
